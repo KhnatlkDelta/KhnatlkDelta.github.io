@@ -1,3 +1,3 @@
 # webpage
 Our group project website first version
-# [crustudentdevcommunity.github.io](https://crustudentdevcommunity.github.io/)
+# [khnatlkdelta.github.io](https://khnatlkdelta.github.io/)
